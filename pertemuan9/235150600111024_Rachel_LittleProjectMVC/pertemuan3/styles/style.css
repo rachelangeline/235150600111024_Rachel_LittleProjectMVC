@@ -1,0 +1,15 @@
+.container {
+    border: 1px solid red;
+    margin-bottom: 30px;
+    background-color: green;
+    position: absolute;
+    width: 500px;
+}
+
+.continent {
+    border: 1px solid blue;
+}
+
+p {
+    display: inline-block;
+}
